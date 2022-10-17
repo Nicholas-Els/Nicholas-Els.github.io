@@ -1145,13 +1145,7 @@ All in all, I was reminded of the coding standard “keep it simple stupid” wh
 # Artifact 3
 
 **BEFORE**
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+![artifact](images/artifact3.jpg)
 
 This artifact was created during the summer of 2021. This project was intended to teach us SQL queries and to construct a database from that to make searches easier.
 
