@@ -7,6 +7,8 @@ Below are three "artifacts" that I created to showcase what I accomplished while
 <p align="center">
     <iframe width="560" height="315" src="https://youtu.be/siCQzUPWlwU" title="Code Review" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
   </p>
+  
+If you can't view the video, you can view it [here](https://youtu.be/siCQzUPWlwU).
 
 # Artifact 1
 
