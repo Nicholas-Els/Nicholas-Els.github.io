@@ -1,6 +1,3 @@
----
-layout: center
----
 # Self Introduction
 
 Everyone will say that they accomplished a lot while they were attending college. They will say that "Hey, look at all the pretty code I created. Look at me." While this may fine for most students, not many can say that they did this to challenge themselves. To pick the degree in which they knew the least about beforehand to see what their limits are to learning. This was my degree path. I had never seen a single line of code before I started this degree and knew even less about how computers functioned. Before this degree, I only took jobs that required a lot of physical demand on the body. Not much in intelligence. This became boring and I decided to utilize my VA benefits to get a degree and to challenge myself along the way. Fast forward to present day and I finished this degree with a 3.9 GPA and completely baffled even myself. I knew beforehand that I had a strong penchant for picking up new skills, but this even amazed me with the success of this experiment.
