@@ -1,7 +1,7 @@
 
 # Self Introduction
 
-***
+****
 
 Hello everyone and welcome to my site. My name is Nicholas Els. For all those that look for pronouns, they are he/him. For all those that don't, welcome. I am quite new to the tech industry. I graduated high school in 2010 and left for boot camp for the U.S. Army two weeks later. I served for almost five years and aquired an honorable discharge by completing my initial contract. I tried to reintegrate back into civilian life back into my agricultural centered home and got bored from the slow pace. I started studying at Southern New Hampshire University in 2018 for Computer Science with a concentration in Software Engineering. I completed this degree on October of 2022 with a 3.9 GPA. 
 
